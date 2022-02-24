@@ -9,3 +9,7 @@ this is second des
 
 sihdiushuhsuouhnsuxewd
 
+## local dev
+
+1.open index.html in browser
+
